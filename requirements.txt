@@ -2,3 +2,4 @@ streamlit
 google-cloud-vision
 google-cloud-documentai
 PyPDF2
+reportlab
