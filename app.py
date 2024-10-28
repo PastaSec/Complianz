@@ -26,6 +26,8 @@ API_ENDPOINT = f"{PROCESSOR_LOCATION}-documentai.googleapis.com"
 # Load credentials from Streamlit secrets
 credentials_info = st.secrets["service_account"]
 credentials = service_account.Credentials.from_service_account_info(credentials_info)
+
+
 # --- Load Product Data ---
 @st.cache_data
 def load_products():
