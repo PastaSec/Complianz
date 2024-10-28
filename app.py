@@ -41,7 +41,7 @@ def process_with_docai(file_bytes):
     # Initialize the Document AI client
     client = documentai.DocumentProcessorServiceClient(
         client_options={"api_endpoint": API_ENDPOINT},
-        credentials=scoped_credentials
+        credentials=credentials
     )
 
     # Load Binary Data into Document AI RawDocument Object
