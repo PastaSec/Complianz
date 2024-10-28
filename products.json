@@ -1,0 +1,210 @@
+[
+    {
+        "Product": "Advion Ant Gel",
+        "Active Ingredient": "Indoxacarb: 0.05%",
+        "Application Rates": {
+            "Indoor Use": "0.1 to 1.0 gram spots or 1/4 inch diameter spots, or lines 1/8 inch wide and 2-3 inches long.",
+            "Outdoor Use": "Spots or beads up to 0.2 grams per placement in areas with ant activity."
+        }
+    },
+    {
+        "Product": "Advion Cockroach Gel Bait",
+        "Active Ingredient": "Indoxacarb: 0.6%",
+        "Application Rates": {
+            "Heavy Infestations": "3 to 5 spots per 10 linear feet.",
+            "Light to Moderate Infestations": "1-3 spots per 10 linear feet.",
+            "Spot Size": "Each spot should be approximately 0.5 grams."
+        }
+    },
+    {
+        "Product": "Alpine Flea and Bed Bug",
+        "Active Ingredients": "Dinotefuran: 0.25%, Pyriproxyfen: 0.10%, Prallethrin: 0.05%",
+        "Application Rates": {
+            "General Use": "20 ounces for up to 2,625 square feet, 10 ounces for up to 1,300 square feet."
+        }
+    },
+    {
+        "Product": "Alpine WSG",
+        "Active Ingredient": "Dinotefuran",
+        "Application Rates": {
+            "General Pest Control": "10-30 grams per gallon of water.",
+            "Crawling Insects": "30 g/gal",
+            "House Flies": "20 g/gal",
+            "Bed Bugs": "30 g/gal",
+            "Ants (excluding Pharaoh)": "10 g/gal",
+            "Fleas": "10 g/gal",
+            "Various beetles and bugs": "30 g/gal"
+        }
+    },
+    {
+        "Product": "Archer IGR",
+        "Active Ingredient": "Pyriproxyfen: 1.3%",
+        "Application Rates": {
+            "Indoor": {
+                "General Surface, Spot, or Crack-and-Crevice": "2 fl oz per gallon of water for ants, cockroaches, crickets; 1 fl oz per gallon of water for carpet beetles, fleas, ticks; 1 fl oz per gallon of water for flying insects.",
+                "Fogging/ULV": "1.5 fl oz per 12,000 cubic feet."
+            },
+            "Outdoor": {
+                "Broadcast, Spot, or Crack-and-Crevice": "2 fl oz per gallon of water for ants, cockroaches, crickets; 1 fl oz per gallon of water for fleas, ticks, flying insects; 1.5 fl oz per gallon of water for stored product pests."
+            }
+        }
+    },
+    {
+        "Product": "Bifen L/P",
+        "Active Ingredient": "Bifenthrin: 0.2%",
+        "Application Rate": "1-5 lbs per 1000 sq ft."
+    },
+    {
+        "Product": "CB-80",
+        "Active Ingredients": "Pyrethrins: 0.50%, Piperonyl Butoxide: 4.00%",
+        "Application Rates": {
+            "Flying Insects": "2-3 seconds per 1000 cubic feet.",
+            "Cockroaches, Spiders, Crickets, Silverfish": "Spray directly on insects.",
+            "Ants": "10-15 seconds per 100 square feet for initial clean-up, 3-5 seconds per 100 cubic feet for maintenance.",
+            "Other insects": "Specific detailed rates per insect type."
+        }
+    },
+    {
+        "Product": "Contrac Soft Bait",
+        "Active Ingredient": "Bromadiolone: 0.005%",
+        "Application Rates": {
+            "Rats": "9 to 43 sachets per placement, 15 to 30 feet apart.",
+            "Mice and Meadow Voles": "1 to 2 sachets per placement, 8 to 12 feet apart."
+        }
+    },
+    {
+        "Product": "DeltaDust",
+        "Active Ingredient": "Deltamethrin: 0.05%",
+        "Application Rate": "2-3 grams per square yard (0.5 lbs per 1000 sq ft)."
+    },
+    {
+        "Product": "DeltaGard G",
+        "Active Ingredient": "Deltamethrin: 0.1%",
+        "Application Rate": "2-3 lbs per 1000 sq ft."
+    },
+    {
+        "Product": "D-Fense NXT",
+        "Active Ingredients": "Novaluron: 0.20%, Deltamethrin: 0.06%, Pyriproxyfen: 0.02%",
+        "Application Rates": {
+            "Indoor": {
+                "Crack and Crevice": "One second per three linear feet.",
+                "Spot Treatment": "1 second per 2 sq. ft.",
+                "General Surface": "10 seconds per 100 sq. ft."
+            },
+            "Outdoor": {
+                "Perimeter": "Apply to foundation of building 2 to 3 feet up.",
+                "Ants": "Apply to trails and entry points.",
+                "Flying and Stinging Insects": "Apply to outdoor surfaces."
+            }
+        }
+    },
+    {
+        "Product": "ExciteR",
+        "Active Ingredients": "Pyrethrins: 6%, Piperonyl Butoxide: 60%",
+        "Application Rates": {
+            "Indoor": {
+                "Crawling Insects": "Up to 4.25 fl oz per gallon of water.",
+                "Flea and Tick": "2.125 to 4.25 fl oz per gallon of water.",
+                "Flying Insects": "2.67 fl oz per gallon of water or oil."
+            },
+            "Outdoor": {
+                "Perimeter": "2.125 to 4.25 fl oz per gallon of water, 1 gallon per 750 sq ft.",
+                "Tick Control": "4.25 fl oz per gallon of water, 3 gallons per acre."
+            }
+        }
+    },
+    {
+        "Product": "Extinguish Plus",
+        "Active Ingredients": "Hydramethylnon: 0.365%, S-Methoprene: 0.250%",
+        "Application Rates": {
+            "Individual Mounds": "2 to 5 tablespoons (0.25 - 0.5 ounces) per mound.",
+            "Broadcast": "1.5 pounds per acre (3 oz/5,000 sq ft)."
+        }
+    },
+    {
+        "Product": "Gentrol IGR Concentrate",
+        "Active Ingredient": "(S)-Hydroprene: 9%",
+        "Application Rates": {
+            "General Surface": "1 gallon per 1500 sq ft.",
+            "Fogging": "1 oz per 12,000 cubic feet.",
+            "Spot/Crack": "1 oz per gallon of diluent.",
+            "Drain Flies/Fruit Flies": "Apply to breeding areas."
+        }
+    },
+    {
+        "Product": "Gentrol Point Source",
+        "Active Ingredient": "(S)-Hydroprene: 90.6%",
+        "Application Rate": "One device per 75 square feet, replaced every 3 months."
+    },
+    {
+        "Product": "Masterline B MaxxPro",
+        "Active Ingredient": "Bifenthrin: 7.9%",
+        "Application Rates": {
+            "Dilution": {
+                "0.02%": "0.33 fl oz per gallon of water.",
+                "0.06%": "1 fl oz per gallon of water."
+            },
+            "Indoor": {
+                "General Pest Control": "Apply to hiding areas, baseboards, corners, etc.",
+                "Ant Control": "0.5 to 1.0 fl oz per gallon of water, 1 gallon per 1,000 sq ft.",
+                "Bed Bugs": "Apply to cracks and crevices where evidence of bed bugs occurs."
+            },
+            "Outdoor": {
+                "Mosquito Control": "0.33 to 1.0 fl oz per gallon of water, 1 gallon per 1,000 sq ft.",
+                "Flea and Tick Control": "Apply to areas where pests are found.",
+                "Fire Ant Mounds": "1 fl oz per mound in 1 to 2 gallons of water."
+            }
+        }
+    },
+    {
+        "Product": "Maxforce Quantum",
+        "Active Ingredient": "Imidacloprid: 0.03%",
+        "Application Rates": {
+            "Indoor": "Up to 2 grams per 100 sq ft.",
+            "Outdoor": "0.2 grams per placement in areas with ant activity."
+        }
+    },
+    {
+        "Product": "Niban FG",
+        "Active Ingredient": "Orthoboric Acid: 5.0%",
+        "Application Rates": {
+            "Exterior": "2 to 4 pounds per 1,000 sq ft.",
+            "Interior": "Apply to cracks and crevices as needed."
+        }
+    },
+    {
+        "Product": "Precor 2000 Plus",
+        "Active Ingredients": "(S)-Methoprene: 0.085%, Permethrin: 0.350%, Phenothrin: 0.300%",
+        "Application Rates": {
+            "General Use": "20 ounces for up to 2,625 square feet, 10 ounces for up to 1,300 square feet."
+        }
+    },
+    {
+        "Product": "Scion",
+        "Active Ingredient": "Deltamethrin: 0.06%",
+        "Application Rates": {
+            "General Use": "Apply as a coarse spray to surfaces, up to 1.5 fl oz per gallon of water."
+        }
+    },
+    {
+        "Product": "Suspend Polyzone",
+        "Active Ingredient": "Deltamethrin: 4.75%",
+        "Application Rates": {
+            "General Use": "0.25 to 1.5 fl oz per gallon of water."
+        }
+    },
+    {
+        "Product": "Stryker",
+        "Active Ingredients": "Pyrethrins: 0.50%, Piperonyl Butoxide: 4.00%",
+        "Application Rates": {
+            "General Use": "Apply as a space spray or directly to insects."
+        }
+    },
+    {
+        "Product": "Web Out",
+        "Active Ingredients": "Sodium Lauryl Sulfate: 1.00%, Citric Acid: 0.20%, Thyme Oil: 0.10%",
+        "Application Rates": {
+            "General Use": "Spray directly on webs, apply as needed."
+        }
+    }
+]
