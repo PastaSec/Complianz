@@ -23,14 +23,7 @@ PROCESSOR_NAME = f"projects/{PROJECT_ID}/locations/{PROCESSOR_LOCATION}/processo
 API_ENDPOINT = f"{PROCESSOR_LOCATION}-documentai.googleapis.com"
 
 # --- Authentication ---
-CREDENTIALS_PATH = r"C:\Users\Ianlw\OneDrive\Desktop\VolusiaCreative\RIDD\Programming\ridd_compliance_audit_app\credentials.json"
-
-credentials = service_account.Credentials.from_service_account_file(
-    CREDENTIALS_PATH
-)
-scoped_credentials = credentials.with_scopes(
-    ["https://www.googleapis.com/auth/cloud-platform"]
-)
+credentials = service_account.Credentials.from_service_account_info(credentials_info)
 
 # --- Load Product Data ---
 @st.cache_data
